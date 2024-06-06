@@ -5,8 +5,8 @@
 
 This project was created as an exercise and to complete the Module 2 Capstone Project of the Data Science Bootcamp at Purwadhika,
 and also serves as a preview of my work and marks my learning journey to become a data scientist. Before you begin, please be aware that this project is comprised of several components in various formats. 
-1. For more detailed exploratory data analysis, please refer to the [Jupyter Notebook](https://github.com/friskahermalia1/Purwadhika_Capstone2_Project/blob/391f1bf274b58faf466ff7ed56c3cb905713bc0d/Airbnb%20Listing%20Bangkok%20Analysis.ipynb)
-2. For data visualization and analysis, please refer to the following [Tableau Story](https://public.tableau.com/views/InsideAirbnbBangkok/Story1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+1. For more detailed exploratory data analysis, please refer to the [Jupyter Notebook](https://github.com/friskahermalia1/Purwadhika_Capstone2_Project/blob/468b63ccaa66c7d35d67e51427b375c7bfe05a88/Airbnb%20Listing%20Bangkok%20Analysis.ipynb)
+2. For data visualization and analysis, please refer to the following [Tableau Story](https://public.tableau.com/views/InsideAirbnbBangkok/Story2?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 3. To see the overview of airbnb bangkok, please following [Tableau Dashboard](https://public.tableau.com/views/Capstone2_Dashboard/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
 # **Overview**
